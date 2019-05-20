@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Selman\\Documents\\1 - Projects\\3 - Web\\CreateCode_MVC\\CreateCode_MVC\\CreateCode_MVC.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

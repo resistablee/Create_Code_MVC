@@ -1,0 +1,62 @@
+﻿<html>
+<head>
+
+    <script lang="c#" runat="server">
+        void 
+    </script>
+
+    <link rel="stylesheet" href="~/Content/Homes.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+</head>
+<body>
+
+    <div id="header"> 
+        @Html.Partial("_Logo") 
+        <div id="menu" class="menu">
+
+            <div id="tabs">
+                @Html.Partial("_Menu")
+            </div>
+            
+        </div>
+
+        <div id="login" class="menu">
+            <button>
+                Giriş yap
+            </button>
+            <button>
+                Üye ol
+            </button>
+        </div>
+
+        <div id="searchbox" class="menu">
+            <form action="">
+                <input type="search">
+                <i class="fa fa-search"></i>
+            </form>
+        </div>
+
+    </div>
+
+    <div id="center">
+
+        <div id="middle"> 
+
+            <div>
+                @RenderBody() 
+            </div>
+
+        </div> @*Orta alan*@
+
+        <div id="rightpanel">
+
+        </div>
+        
+    </div>
+
+    <div id="footer">
+
+    </div>
+</body>
+</html>

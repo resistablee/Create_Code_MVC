@@ -1,0 +1,355 @@
+E:\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll.config
+E:\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.pdb
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe.config
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.rsp
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe.config
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.rsp
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.AppContext.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Console.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.Process.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Compression.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Pipes.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.AccessControl.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Claims.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Threading.Thread.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.ValueTuple.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe.config
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.rsp
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe
+E:\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.dll
+E:\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.xml
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.xml
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.xml
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.xml
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.xml
+E:\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.xml
+E:\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csprojResolveAssemblyReference.cache
+E:\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CoreCompileInputs.cache
+E:\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CopyComplete
+E:\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.dll
+E:\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.pdb
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll.config
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.pdb
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe.config
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.rsp
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe.config
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.rsp
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.AppContext.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Console.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.Process.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Compression.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Pipes.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.AccessControl.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Claims.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Threading.Thread.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.ValueTuple.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe.config
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.rsp
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.xml
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.xml
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.xml
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.xml
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.xml
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.xml
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csprojResolveAssemblyReference.cache
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CoreCompileInputs.cache
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CopyComplete
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.dll
+E:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.pdb
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll.config
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.pdb
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe.config
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.rsp
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe.config
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.rsp
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.AppContext.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Collections.Immutable.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Console.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.Process.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Compression.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Pipes.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.AccessControl.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Claims.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Threading.Thread.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.ValueTuple.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe.config
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.rsp
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe.config
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.xml
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.xml
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.xml
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.xml
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.xml
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.xml
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csprojAssemblyReference.cache
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CoreCompileInputs.cache
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CopyComplete
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.dll
+F:\3 - Web\2 - Yazılanlar\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.pdb
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll.config
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.pdb
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe.config
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.rsp
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe.config
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.rsp
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Console.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe.config
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.rsp
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.xml
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.xml
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.xml
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.xml
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csprojAssemblyReference.cache
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CopyComplete
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.dll
+C:\Users\Selman\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.pdb
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll.config
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\CreateCode_MVC.pdb
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.exe.config
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csc.rsp
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.exe.config
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\csi.rsp
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.AppContext.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Console.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.exe.config
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\vbc.rsp
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Razor.xml
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.xml
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Helpers.xml
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\bin\System.Web.Mvc.xml
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csprojAssemblyReference.cache
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CoreCompileInputs.cache
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.csproj.CopyComplete
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.dll
+C:\Users\resis\Documents\1 - Projects\3 - Web\CreateCode_MVC\CreateCode_MVC\obj\Debug\CreateCode_MVC.pdb

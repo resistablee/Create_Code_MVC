@@ -1,0 +1,237 @@
+﻿body {
+    /*#373B44*/
+    background-color: #373B44;
+}
+
+/*******************Header**********************/
+
+#header {
+    width: 99%;
+    height: 26.2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header div {
+    float: left
+}
+
+#header img {
+    width: 100%;
+    height: 190px;
+}
+
+/*********************Menu********************/
+
+.menu{
+    border-block-end: solid 8px #FFD200;
+    height: 17.8%;
+    background-color: #1C2326;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0;
+    float: left;
+}
+
+.menu a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana;
+    cursor: pointer;
+    color: whitesmoke;
+    position: inherit;
+    padding-top: 8px;
+    height: 80px;
+}
+
+#menu {
+    width: 70%;
+    }
+
+/************************Tabs*************************/
+
+#tabs {
+    width: 100%;
+}
+            
+#tabs ul {
+    height: 100%;
+    list-style: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    }
+
+#tabs ul li{
+    margin-top: 4px;
+    float: left;
+    width: 19.47%;
+    transition-property: margin-top;
+    transition-duration: .8s;
+    margin-right: 5px;
+    }
+
+#tabs ul li:hover {
+    margin-top: 0px;
+}
+
+#tabs ul li:hover a {
+    padding-bottom: 5px;
+}
+    
+#tabs ul li a {
+    transition-property: background-color padding-top;
+    transition-duration: .8s;
+    border-top-left-radius: 10px;
+    border-top-right-radius:10px;
+}
+
+#tabs ul li a:hover {
+    background-color: #FFD200;
+    color: #1C2326;
+    padding-top: 5px; 
+}
+
+/*********************Other Menu Item**********************/
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+#searchbox {
+    width: 10%;
+}
+
+form {
+    position: relative;
+    top: 42%;
+    left: 34%;
+    transform: translate(-50%,-50%);
+    transition: all 2s;
+    width: 40px;
+    height: 40px;
+    background: white;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 3px solid white;
+    padding: 5px;
+}
+
+input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 35px;
+    line-height: 40px;
+    outline: 0;
+    border: 0;
+    display: none;
+    font-size: 20;
+    border-radius: 20px;
+    padding: 0 20px;
+}
+
+.fa {
+    padding-top: 8px;
+    padding-left: 8px;
+    box-sizing: border-box;
+    width: 41px;
+    height: 41px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    color: #07051a;
+    text-align: center;
+    font-size: 1.2em;
+    transition: all 1s;
+}
+
+form:hover{
+    width: 200px;
+    cursor: pointer;
+}
+
+form:hover input{
+    display: block;
+}
+
+form:hover .fa{
+    background: #07051a;
+    color: #FFD200;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-right: 8px;
+    border:none;
+    width: 35px;
+    height: 35px;
+}
+
+#login {
+    transition: all 3sn;
+    width: 20%;
+}
+
+#login:hover {
+    height: 100px;
+}
+
+#login button {
+    margin-top: 10px;
+    display: block;
+    float: left;
+    width: 120px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #FFD200;
+    color: #07051a;
+    border: solid 2px whitesmoke;
+    font-size: 15;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 10px;
+}
+
+/*********************Center*******************************/
+
+#center {
+    width: 99%;
+    margin-top: 5px;
+    background-color:azure;
+    height: 1600px; /*auto olacak*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#center div {
+    float: left;
+}
+
+/**********************Right Panel*************************/
+
+#rightpanel {
+    right: 0;
+    width: 315px;
+    height: auto;
+    background-color: #1C2326;
+    border: solid 1px #FFD200;
+}
+
+/**********************Middle*******************************/
+
+#middle {
+    width: 80%;
+    display:block;
+    height:1500px; /*Auto olacak*/
+    }
+
+#footer {
+    width: 99%;
+    margin-top: 15px;
+    background-color:#1C2326;
+    height: 100px; 
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px #FFD200;
+}
